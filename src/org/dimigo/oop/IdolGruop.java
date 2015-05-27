@@ -22,16 +22,5 @@ public class IdolGruop {
 			}
 			System.out.println();
 		}
-		// for-each문
-		for(String name : idolGroup) {
-			for(String[] strarr : member) {
-				System.out.println("<< " + name+" 멤버 >>");
-				for(String name2 : strarr)	{
-					System.out.println(name2);
-				}
-				System.out.println();
-			}
-			
-		}
 	}
 }
