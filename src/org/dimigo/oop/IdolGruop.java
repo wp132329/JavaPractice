@@ -12,7 +12,6 @@ public class IdolGruop {
 				new String[] {"CL", "산다라박", "박봄", "민지"},
 				new String[] {"유라", "소진","민아","혜리", "그외"}
 		};
-		
 		// for문
 		for(int i = 0; i<idolGroup.length; i++) {
 			System.out.println("<< " + idolGroup[i]+" 멤버 >>");
