@@ -1,6 +1,5 @@
 package org.dimigo.oop;
 
-import java.lang.reflect.Member;
 
 public class IdolGruop {
 
