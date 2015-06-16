@@ -6,7 +6,7 @@ public class PiggyBankTest {
 		// TODO Auto-generated method stub
 		FamilyMember[] members = {
 				new FamilyMember("아빠"), new FamilyMember("엄마"),
-				new FamilyMember("나"), new FamilyMember("남동생"),
+				new FamilyMember("나"), new FamilyMember("남동생")
 		};
 		
 		PiggyBank piggy = new PiggyBank();
