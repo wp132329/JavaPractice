@@ -17,8 +17,8 @@ public class Figure {
 		System.out.println("중심 좌표 : (" + centerX + ", " + centerY + ")");
 	}
 	
-	protected void moveFigure(int centerX, int centerY) {
-		this.centerX = centerX;
-		this.centerY = centerY;
+	protected void moveFigure(int x, int y) {
+		this.centerX += x;
+		this.centerY += y;
 	}
 }

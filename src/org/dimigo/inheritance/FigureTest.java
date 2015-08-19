@@ -22,8 +22,8 @@ public class FigureTest {
 		
 		System.out.println("-- 중심좌표 이동(x, y축 5씩)");
 		c.moveFigure(5, 5);
-		r.moveFigure(15, 15);
-		t.moveFigure(25, 25);
+		r.moveFigure(5, 5);
+		t.moveFigure(5, 5);
 		
 		System.out.println();
 		
